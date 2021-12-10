@@ -1,1 +1,1 @@
-# Lpl-
+一个基于javaSwing，JDBC，Mysql数据库和内网穿透的观赛系统
